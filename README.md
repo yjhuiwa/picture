@@ -1,4 +1,4 @@
 # media
 
 #### 介绍
-[朝花朝拾](yjhui.xyz)图床
+[朝花朝拾](http://yjhui.xyz)图床
